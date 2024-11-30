@@ -1,5 +1,5 @@
 # OOP-Projects
-Dr Mostafa Saad Work form ask link before its closed
+Dr Mostafa Saad Work form ask link before it closed
 
 ## Mini-Projects  
 
