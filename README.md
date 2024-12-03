@@ -53,11 +53,7 @@ Dr Mostafa Saad Work form ask link before it closed
 - **Concepts to Apply**:  
   All OOP concepts **except inheritance and polymorphism**.  
 
-### 3. **Expedia.com Clone**  
-- **Details**: [Ask.fm Answer](https://ask.fm/mostafasaad87/answers/162797646562)  
-- **Explanation Video**: Coming soon (expected in 3 weeks).  
-- **Concepts to Apply**:  
-  All OOP concepts.  
+.  
 
 
 ![image](https://github.com/user-attachments/assets/9c7eae20-9715-4043-ad71-861440e479fa)
